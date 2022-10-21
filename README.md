@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Alasdair's Cloud Journey
 
-[✍️ Introduce yourself]
+Welcome to my 100 Days of Cloud journey.
 
 [✍️ Tell us why you started this challenge]
 
